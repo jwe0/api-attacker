@@ -26,4 +26,4 @@ Api Attacker provides a custom config system so you can easily try the same site
 
 
 # Regards
-I take no legal responsiblity for any negative actions commited with my software. This was made for ethical purposes only <3.
+I take no legal responsibility for any negative actions committed with my software. This was made for ethical purposes only <3.
